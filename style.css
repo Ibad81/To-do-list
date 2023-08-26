@@ -37,7 +37,7 @@ ul{
     position :relative;
     margin: 0px;
     padding: 5px;
-    /* overflow: auto; */
+    overflow: auto;
 }
 
 li{
@@ -49,7 +49,7 @@ li{
     padding: 7px;
     text-align: left;
     right: 10px;
-    white-space: nowrap;
+    /* white-space: nowrap; */
 }
 
 
